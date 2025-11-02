@@ -1,0 +1,8 @@
+streamlit
+PyMuPDF
+pdfplumber
+python-docx
+Pillow
+pytesseract
+fpdf
+scikit-learn
