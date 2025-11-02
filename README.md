@@ -22,12 +22,19 @@ streamlit run app.py
 
 ## 🗂️ Project Structure
 AI-Resume-Screener/
+
 ├── app.py
+
 ├── requirements.txt
+
 ├── README.md
+
 ├── home.png
+
 ├── result.png
+
 ├── suggestions.png
+
 └── report.png
 
 ## Limitations
